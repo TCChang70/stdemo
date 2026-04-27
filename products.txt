@@ -1,0 +1,6 @@
+P01,Grape,100
+P02,Tomato,60
+P03,Melon,200
+P04,Cherry,100
+P05,Apple,60
+P06,Banana,200
