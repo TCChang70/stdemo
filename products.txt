@@ -1,0 +1,3 @@
+P01,Grape,100
+P02,Tomato,60
+P03,Melon,200
